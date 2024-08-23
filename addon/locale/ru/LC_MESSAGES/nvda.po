@@ -9,27 +9,27 @@ msgstr ""
 "Project-Id-Version: MSEdgeDiscardAnnouncements 0.8\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2024-02-02 13:05+0000\n"
-"PO-Revision-Date: 2024-05-05 19:27+0300\n"
-"Last-Translator: Danil Kostenkov <danilkostenkov38@gmail.com>\n"
+"PO-Revision-Date: 2024-08-17 18:04+0500\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 msgid "&Configure MSEdge notifications"
-msgstr "&Настройка уведомлений Microsoft Edge"
+msgstr "&Настроить объявления в MSEdge"
 
 msgid "Donate via Paypal"
-msgstr "Пожертвовать через Paypal"
+msgstr "Сделать пожертвование через Paypal"
 
 msgid "Donate via Yoomoney"
-msgstr "Пожертвовать через Yoomoney"
+msgstr "Сделать пожертвование через Yoomoney"
 
 #, python-brace-format
 msgid "Request for contributions to {name}"
-msgstr "Запрос о внесении вклада в разработку {name}"
+msgstr "Просьба о поддержке {name}"
 
 #, python-brace-format
 msgid ""
@@ -40,92 +40,91 @@ msgid ""
 "will be redirected to the corresponding website to complete a donation"
 msgstr ""
 "{name} это бесплатное дополнение для NVDA.\n"
-"Вы Можете сделать пожертвование разработчику, чтобы поддержать дальнейшее "
+"Вы можете сделать пожертвование его автору, чтобы поддержать дальнейшее "
 "развитие этого и других бесплатных проектов.\n"
-"Хотите пожертвовать сейчас? Выберите один из доступных способов оплаты. Вы "
-"будете перенаправлены на соответствующий веб-сайт, чтобы завершить "
-"пожертвование"
+"Вы хотите сделать пожертвование прямо сейчас? Выберите один из доступных "
+"способов оплаты. Вы будете перенаправлены на соответствующий веб-сайт для "
+"совершения пожертвования"
 
 msgid "Announce loading of pages"
-msgstr "Сообщать о загрузке страниц"
+msgstr "Объявлять о загрузке страниц"
 
 msgid "Announce page refresh"
-msgstr "Сообщать об обновлении страницы"
+msgstr "Объявлять об обновлениии страницы"
 
 msgid "Announce closing of tab"
-msgstr "Сообщать о закрытии вкладки"
+msgstr "Объявлять о закрытии вкладки"
 
 msgid "Announce Opening of new tab"
-msgstr "Сообщать об открытии новой вкладки"
+msgstr "Объявлять об открытии новой вкладки"
 
 msgid "Announce window opening"
-msgstr "Сообщать об открытии нового окна"
+msgstr "Объявлять об открытии нового окна"
 
 msgid "Announce opening of inprivate window"
-msgstr "Сообщать об открытии окна InPrivate (конфиденциального просмотра)"
+msgstr "Объявлять об открытии окна в режиме InPrivate"
 
 msgid "Announce starting file download"
-msgstr "Сообщать о начале загрузки файла"
+msgstr "Объявлять о начале загрузки файла"
 
 msgid "Announce download completion"
-msgstr "Сообщать о завершении загрузки"
+msgstr "Объявлять об окончании загрузки файла"
 
 msgid "Announce navigating back"
-msgstr "Сообщать о переходе на предыдущую страницу"
+msgstr "Объявлять о переходе назад"
 
 msgid "Announce navigating forward"
-msgstr "Сообщать о переходе на следующую страницу"
+msgstr "Объявлять о переходе вперёд"
 
 msgid "Announce if there is no previous page to navigate"
-msgstr "Сообщать об отсутствии предыдущей страницы"
+msgstr "Объявлять о невозможности перехода назад"
 
 msgid "Announce if there is no next page to navigate"
-msgstr "Сообщать об отсутствии следующей страницы"
+msgstr "Объявлять о невозможности перехода вперёд"
 
 msgid "Announce removing toolbar buttons"
-msgstr "Сообщать об удалении кнопок с панели инструментов"
+msgstr "Объявлять об удалении кнопок на панели инструментов"
 
 msgid "Announce of search mode"
-msgstr "Сообщать режим поиска"
+msgstr "Объявлять режим поиска"
 
 msgid "Announce availability of search mode"
-msgstr "Сообщать о наличии режима поиска"
+msgstr "Объявлять о доступности режима поиска"
 
 msgid "Announce appearing of notifications"
-msgstr "Сообщать о появлении уведомлений"
+msgstr "Объявлять о появлении уведомлений"
 
 msgid "Announce indeterminate progress state of current download"
-msgstr "Сообщать о неопределённом состоянии хода текущей загрузки"
+msgstr "Объявлять о неопределённом состоянии текущей загрузки"
 
 msgid "Announce autofil suggestions"
-msgstr "Сообщать о предложениях автозаполнения"
+msgstr "Объявлять предложения автозаполнения"
 
 msgid "Announce filling of autofill suggestions"
-msgstr "Сообщать о заполнении предложений автозаполнения"
+msgstr "Объявлять о заполнении предложений автозаполнения"
 
 msgid "Announce Closing popups like hiding  suggestions of autofill"
 msgstr ""
-"Сообщать о закрытии всплывающих окон (например, скрыть предложения "
-"автозаполнения)"
+"Объявлять о закрытии всплывающих окон, например, скрывать предложения по "
+"автозаполнению"
 
 msgid "Announce hiding  autofill suggestions"
-msgstr "Сообщать о скрытии предложения для автозаполнения"
+msgstr "Объявлять о скрытии предложений по автозаполнению"
 
 msgid "Announce microsoft edge update availability"
-msgstr "Сообщать о доступности обновления Microsoft edge"
+msgstr "Объявлять о доступности обновления Microsoft edge"
 
 msgid "Announce zoom changes"
-msgstr "Сообщать об изменениях масштаба"
+msgstr "Объявлять об изменениях масштаба"
 
 msgid "Show suggestions while typing in addressbar"
-msgstr "Показывать предложения при вводе в адресную строку"
+msgstr "Показывать предложения при вводе текста в адресной строке"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on
 #. to be shown on installation and add-on information found in Add-ons Manager.
 msgid "Microsoft Edge discard announcements"
-msgstr ""
-"Подавление объявлений Microsoft Edge (Microsoft Edge discard announcements)"
+msgstr "Подавление объявлений в Microsoft Edge"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
@@ -133,5 +132,5 @@ msgid ""
 "Discards UIA announcements in Microsoft Edge such as page loading and "
 "refreshing, opening and closing tabs and windows."
 msgstr ""
-"Подавляет сообщения UIA в Microsoft Edge (например, загрузка и обновление "
-"страниц, Открытие и закрытие вкладок и окон)."
+"Подавляет объявления UIA в Microsoft Edge, такие как загрузка и обновление "
+"страниц, открытие и закрытие вкладок и окон."
