@@ -9,27 +9,27 @@ msgstr ""
 "Project-Id-Version: MSEdgeDiscardAnnouncements 0.8\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2024-02-02 13:05+0000\n"
-"PO-Revision-Date: 2024-08-17 18:04+0500\n"
+"PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "&Configure MSEdge notifications"
-msgstr "&Настроить объявления в MSEdge"
+msgstr "&Настройка уведомлений MSEdge"
 
 msgid "Donate via Paypal"
-msgstr "Сделать пожертвование через Paypal"
+msgstr "Пожертвовать через Paypal"
 
 msgid "Donate via Yoomoney"
-msgstr "Сделать пожертвование через Yoomoney"
+msgstr "Пожертвовать через Yoomoney"
 
 #, python-brace-format
 msgid "Request for contributions to {name}"
-msgstr "Просьба о поддержке {name}"
+msgstr "Просьба поддержать {name}"
 
 #, python-brace-format
 msgid ""
@@ -39,18 +39,18 @@ msgid ""
 "Do you want to donate now? Choose one of the available payment methods. You "
 "will be redirected to the corresponding website to complete a donation"
 msgstr ""
-"{name} это бесплатное дополнение для NVDA.\n"
-"Вы можете сделать пожертвование его автору, чтобы поддержать дальнейшее "
-"развитие этого и других бесплатных проектов.\n"
-"Вы хотите сделать пожертвование прямо сейчас? Выберите один из доступных "
-"способов оплаты. Вы будете перенаправлены на соответствующий веб-сайт для "
-"совершения пожертвования"
+"{name} — бесплатное дополнение для NVDA.\n"
+"Вы можете сделать пожертвование его автору для поддержки дальнейшего "
+"развития этого и других бесплатных проектов.\n"
+"Вы хотите сделать пожертвование сейчас? Выберите один из доступных способов "
+"оплаты. Вы будете перенаправлены на соответствующий сайт для совершения "
+"пожертвования"
 
 msgid "Announce loading of pages"
-msgstr "Объявлять о загрузке страниц"
+msgstr "Объявлять загрузку страницы"
 
 msgid "Announce page refresh"
-msgstr "Объявлять об обновлениии страницы"
+msgstr "Объявлять обновление страницы"
 
 msgid "Announce closing of tab"
 msgstr "Объявлять о закрытии вкладки"
@@ -59,66 +59,66 @@ msgid "Announce Opening of new tab"
 msgstr "Объявлять об открытии новой вкладки"
 
 msgid "Announce window opening"
-msgstr "Объявлять об открытии нового окна"
+msgstr "Объявлять об открытии окон"
 
 msgid "Announce opening of inprivate window"
-msgstr "Объявлять об открытии окна в режиме InPrivate"
+msgstr "Объявлять открытие приватного окна"
 
 msgid "Announce starting file download"
 msgstr "Объявлять о начале загрузки файла"
 
 msgid "Announce download completion"
-msgstr "Объявлять об окончании загрузки файла"
+msgstr "Объявлять о завершении загрузки файла"
 
 msgid "Announce navigating back"
-msgstr "Объявлять о переходе назад"
+msgstr "Объявлять о переходе назад в истории"
 
 msgid "Announce navigating forward"
-msgstr "Объявлять о переходе вперёд"
+msgstr "Объявлять о переходе вперёд в истории"
 
 msgid "Announce if there is no previous page to navigate"
-msgstr "Объявлять о невозможности перехода назад"
+msgstr "Объявить, если нет предыдущей страницы для навигации"
 
 msgid "Announce if there is no next page to navigate"
-msgstr "Объявлять о невозможности перехода вперёд"
+msgstr "Объявить, если нет следующей страницы для навигации"
 
 msgid "Announce removing toolbar buttons"
-msgstr "Объявлять об удалении кнопок на панели инструментов"
+msgstr "Объявлять об удалении кнопок панели инструментов"
 
 msgid "Announce of search mode"
-msgstr "Объявлять режим поиска"
+msgstr "Объявление режима поиска"
 
 msgid "Announce availability of search mode"
 msgstr "Объявлять о доступности режима поиска"
 
 msgid "Announce appearing of notifications"
-msgstr "Объявлять о появлении уведомлений"
+msgstr "Объявлять появление уведомлений"
 
 msgid "Announce indeterminate progress state of current download"
-msgstr "Объявлять о неопределённом состоянии текущей загрузки"
+msgstr "Объявлять о неопределенном состоянии текущей загрузки"
 
 msgid "Announce autofil suggestions"
-msgstr "Объявлять предложения автозаполнения"
+msgstr "Объявлять предложения по автозаполнению"
 
 msgid "Announce filling of autofill suggestions"
-msgstr "Объявлять о заполнении предложений автозаполнения"
+msgstr "Объявлять заполнение предложений автозаполнения"
 
 msgid "Announce Closing popups like hiding  suggestions of autofill"
 msgstr ""
-"Объявлять о закрытии всплывающих окон, например, скрывать предложения по "
-"автозаполнению"
+"Объявлять о закрытии всплывающих окон, например, о скрытии предложений "
+"автозаполнения"
 
 msgid "Announce hiding  autofill suggestions"
-msgstr "Объявлять о скрытии предложений по автозаполнению"
+msgstr "Объявлять о скрытии предложений автозаполнения"
 
 msgid "Announce microsoft edge update availability"
-msgstr "Объявлять о доступности обновления Microsoft edge"
+msgstr "Объявлять о доступности обновления Microsoft Edge"
 
 msgid "Announce zoom changes"
-msgstr "Объявлять об изменениях масштаба"
+msgstr "Объявлять изменения масштаба"
 
 msgid "Show suggestions while typing in addressbar"
-msgstr "Показывать предложения при вводе текста в адресной строке"
+msgstr "Показывать предложения ввода в адресной строке"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on
